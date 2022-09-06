@@ -1,0 +1,1 @@
+# Dynamodb-map-to-JSON-formatter
